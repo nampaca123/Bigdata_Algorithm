@@ -1,0 +1,1 @@
+select sysdate, to_char(sysdate, 'yyyy/mm/dd dy hh24:mi:ss') "SYSDATE_1" from dual;

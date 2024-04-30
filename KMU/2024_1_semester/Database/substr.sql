@@ -1,0 +1,1 @@
+select substr(name,1,1) "lastname", count(*) "number" from Customer group by substr(name,1,1);

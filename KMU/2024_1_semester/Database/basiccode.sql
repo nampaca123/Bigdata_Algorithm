@@ -1,0 +1,1 @@
+select bookname, publisher from book where price >= 10000;
