@@ -1,0 +1,2 @@
+INSERT INTO SummerPrice VALUES ('JAVA',25000);
+SELECT * FROM SummerPrice;
