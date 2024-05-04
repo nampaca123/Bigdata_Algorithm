@@ -7,7 +7,7 @@
 
 This folder contains the algorithm problems I've practiced. It includes descriptions of each quiz, my solutions, and key points of the problems.
 
-## BDAA (Big Data Analysis Association)
+## BDAA
 'BDAA'는 'Big Data Analysis Association'의 약자로, 제가 소속된 빅데이터 학회의 이름입니다. 이 폴더에는 학회 활동 내용, 수강한 수업 내용, 과제로 제출한 코드들이 포함되어 있습니다.
 
 The 'BDAA' stands for 'Big Data Analysis Association', which is the name of the big data club I belong to. This folder includes activities from the club, content of courses I've taken, and the codes I've developed as assignments.
