@@ -11,4 +11,4 @@ AVG(saleprice) AS Average,
 COUNT(saleprice) AS COUNT,
 MIN(saleprice) AS Minimum,
 MAX(saleprice) AS Maximum
-From Orders;
+From Orders; 
